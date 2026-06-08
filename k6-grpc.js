@@ -11,7 +11,7 @@ const client = new grpc.Client();
 client.load(['.'], 'user_service.proto');
 
 export const options = {
-    vus: 5,
+    vus: 100,
     duration: '30s',
 };
 
