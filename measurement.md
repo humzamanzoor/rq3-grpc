@@ -1,5 +1,5 @@
 ---
-name: gRPC.C10
+name: gRPC.C5
 author: Humza
 description: Energy consumption measurement of gRPC.ASPNetCore under concurrent load using k6.
 active-nodes:
